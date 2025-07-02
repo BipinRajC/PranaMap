@@ -1,8 +1,8 @@
-# 🌍 AirWise: Smart Cities Air Quality Management with Pollution Passport
+# 🌍 PranaMap: Smart Cities Air Quality Management with Pollution Passport
 
 ## 📖 Overview
 
-AirWise is a comprehensive air quality monitoring and management platform designed for smart cities, with a focus on Gurugram, Haryana. The application combines real-time pollution tracking, AI-powered predictions, and an innovative **Pollution Passport** system that gamifies environmental responsibility through personalized scoring and real-world rewards.
+PranaMap is a comprehensive air quality monitoring and management platform designed for smart cities, with a focus on Gurugram, Haryana. The application combines real-time pollution tracking, AI-powered predictions, and an innovative **Pollution Passport** system that gamifies environmental responsibility through personalized scoring and real-world rewards.
 
 ## 🚀 Novel Concepts & Innovation
 
