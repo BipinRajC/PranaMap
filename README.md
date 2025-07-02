@@ -270,4 +270,4 @@ The backend API will be available at `http://localhost:5000`
 
 ---
 
-**AirWise** - Transforming air quality awareness into environmental action through innovative technology and meaningful incentives. 🌱
+**PranaMap** - Transforming air quality awareness into environmental action through innovative technology and meaningful incentives. 🌱
