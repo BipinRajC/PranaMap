@@ -130,31 +130,13 @@ The Pollution Passport is a revolutionary concept that transforms environmental 
 - **npm** or **yarn**
 - **Git**
 
-### 📁 Project Structure
-```
-SDG_EL-main/
-├── SDGFInal/                 # Main application directory
-│   ├── src/                  # Frontend source code
-│   │   ├── components/       # Reusable React components
-│   │   ├── pages/           # Page components
-│   │   ├── services/        # API service layer
-│   │   └── styles/          # CSS and styling
-│   ├── backend/             # Backend API server
-│   │   ├── app.py          # Main Flask application
-│   │   ├── models/         # ML models and data processing
-│   │   └── requirements.txt # Python dependencies
-│   ├── package.json        # Frontend dependencies
-│   └── vite.config.ts      # Vite configuration
-├── DataAndML/              # Machine learning datasets
-└── README.md              # This file
-```
 
 ### 🔧 Installation Steps
 
 #### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd SDG_EL-main/SDGFInal
+cd PranaMap/
 ```
 
 #### 2. Frontend Setup
@@ -184,14 +166,6 @@ python3 app.py
 ```
 The backend API will be available at `http://localhost:5000`
 
-#### 4. Environment Configuration
-Create a `.env` file in the backend directory:
-```env
-OPENWEATHER_API_KEY=your_openweathermap_api_key
-FLASK_ENV=development
-DATABASE_URL=your_database_url
-SECRET_KEY=your_secret_key
-```
 
 ### 🌐 API Endpoints
 
@@ -272,16 +246,6 @@ SECRET_KEY=your_secret_key
 - **International Markets**: Adaptation for global cities
 - **Satellite Integration**: Real-time satellite pollution monitoring
 
-## 👥 Team & Contributions
-
-| Role | Responsibilities |
-|------|-----------------|
-| **AI/ML Engineer** | Pollution scoring algorithms, predictive models, anomaly detection |
-| **Backend Engineer** | API development, data pipelines, reward system integration |
-| **Frontend Engineer** | React dashboard, interactive maps, user experience design |
-| **Data Scientist** | Data analysis, insights generation, algorithm optimization |
-| **DevOps Engineer** | Deployment, scaling, monitoring, CI/CD pipelines |
-
 ## 📈 Success Metrics
 
 ### Technical KPIs
@@ -302,27 +266,7 @@ SECRET_KEY=your_secret_key
 - Policy recommendation adoption
 - Air quality awareness increase
 
-## 🤝 Contributing
 
-We welcome contributions! Please read our contributing guidelines and submit pull requests for any improvements.
-
-### Development Workflow
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests and documentation
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Support & Contact
-
-For technical support or questions:
-- Create an issue on GitHub
-- Email: support@airwise.app
-- Documentation: [Wiki](link-to-wiki)
 
 ---
 
